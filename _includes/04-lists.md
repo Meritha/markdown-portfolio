@@ -2,13 +2,13 @@
 1. **Golden Age Illustrators**
     * _Arthur Rackham_
     * _Edmund Dulac_
-    * _Aubrey Beardsley_
-    * _John Bauer_
+    * Aubrey Beardsley
+    * John Bauer
 2. **Contemporary Surrealists**
     * _Amy Sol_
     * _Yoshitaka Amano_
-    * _Katsuya Terada_
-    * _Daniel Merriam_
+    * Katsuya Terada
+    * Daniel Merriam
 3. **Fantasy Artists**
-    * _Jean-Baptiste Monge_
-    * _Keith Thompson_
+    * Jean-Baptiste Monge
+    * Keith Thompson
