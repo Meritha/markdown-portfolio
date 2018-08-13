@@ -1,4 +1,4 @@
 ## Languages
 - _HTML_
-- _CSS-
+- _CSS_
 - Javascript
